@@ -1,2 +1,5 @@
-pandas
-numpy
+langchain
+bs4
+langchain_huggingface
+
+langchain_groq
