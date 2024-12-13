@@ -8,3 +8,7 @@ ipykernel
 
 langchain_community
 langchain-chroma
+
+langchain-openai
+streamlit
+openai
