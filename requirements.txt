@@ -12,3 +12,4 @@ langchain-chroma
 langchain-openai
 streamlit
 openai
+langchain_ollama
