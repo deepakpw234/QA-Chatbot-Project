@@ -33,6 +33,7 @@ def generate_response(question,llm,temparature,max_token):
 
 st.title("Q&A with Ollama")
 
+
 st.sidebar.title("Settings")
 llm = st.sidebar.selectbox("Select an Ollama Model",options=["gemma2:2b"])
 
